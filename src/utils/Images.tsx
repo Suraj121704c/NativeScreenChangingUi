@@ -1,0 +1,11 @@
+export const BackgroundImage = require('../Assets/Login-bg.png');
+export const UserImage = require('../Assets/userPhoto.png');
+export const MainMenuImage = require('../Assets/menu-bar.png');
+export const PencilImage = require('../Assets/pencil.png');
+export const MoreImage = require('../Assets/more.png');
+export const LikeImage = require('../Assets/like.png');
+export const CommentImage = require('../Assets/comment.png');
+export const ShareImage = require('../Assets/share.png');
+export const TickImage = require('../Assets/tick.png');
+export const GalleryImage = require('../Assets/gallery.png');
+export const Menu = require('../Assets/main-menu.png');
